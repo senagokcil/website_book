@@ -1,0 +1,10 @@
+1- css linkleri header.php de, script linkleri footer.php de ÇÜNKÜ önce css sonra script çalışır sitenin hızı artar.
+2- htaccess sayesinde .php uzantılarından kurtuldum.
+3- YETKİ --> Admin = 2
+             Kullanıcı = 1
+
+GEREKLİ
+ctrl d => aynı kelimeleri sırasıyla seçer.
+ctrl h => toplu replace
+ctrl k f => kod hizalama
+
